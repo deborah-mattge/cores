@@ -29,7 +29,7 @@ div{
     margin: 10px 2px; 
     border-radius: 5px;
     justify-content: center;
-    flex-direction: column;
+    
     
 }
 header{
@@ -53,13 +53,5 @@ button{
     border-radius: 5px;
     justify-content: center;
     background-color: white;
-}
-.azul{
-    background-color: blue;
-}
-.verde{
-    background-color: green;
-}
-.roxo{
-    background-color: violet;
+    
 }
