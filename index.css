@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0%;
+    
+}
+body{
+    font-family:cursive;
+    background-color: blueviolet;
+    
+}
+div{
+    color: white;
+    border-radius: 10px; 
+    padding: 10px; 
+    display: inline-block; 
+    display: flex;
+    padding: 100px;
+   justify-content: center;
+   
+
+}
+.quadrado{
+    border: none; 
+    background-color: black; 
+    padding: 10px 20px; 
+    text-align: center; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 10px 2px; 
+    border-radius: 5px;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+header{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    background-color: white;
+    justify-content: space-around;
+}
+button{
+    font-family:cursive;
+    border: none; 
+    color: rgb(118, 176, 243); 
+    padding: 10px 20px; 
+    text-align: center; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 10px 2px; 
+    cursor: pointer; 
+    border-radius: 5px;
+    justify-content: center;
+    background-color: white;
+}
+.azul{
+    background-color: blue;
+}
+.verde{
+    background-color: green;
+}
+.roxo{
+    background-color: violet;
+}
